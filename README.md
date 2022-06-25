@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HalavathSiddhartha
 - 👀 I’m interested in development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python begginer projects
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me +919652957295
 
 <!---
